@@ -33,7 +33,7 @@ Can you Jump Outdated Elephants? Give it a shot with this binary.
 Can you show off your forensics skills with Bona Fortuna? There's a flag in stream 443 and another in 1194.
 
 There's plenty of /heap/ fun to be found in "Remote Pwnage Call", available here
-
+``` C
 struct d {
   int idx;
   opaque data;
@@ -54,7 +54,7 @@ program TOKENPROG {
     struct d INFOLEAK(struct e)  = 7; /* cause an info leak? :P */
   } = 1;
 } = 0x20001337;
-
+```
 Looking for more exploitation fun? Do you like playing with Sand Blocks, or performing jail break-in's (which has two flags to be discovered).
 
 Want to break some crypto? Try your hands at Jekyll, or Need Feedback
