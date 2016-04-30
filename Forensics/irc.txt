@@ -1,0 +1,228 @@
+NICK Matir
+
+:irc.capturetheflag.withgoogle.com NOTICE * :*** Looking up your hostname
+
+:irc.capturetheflag.withgoogle.com NOTICE * :*** Checking Ident
+
+USER root-poppopret root-poppopret 10.240.0.2 :matir
+
+:irc.capturetheflag.withgoogle.com NOTICE * :*** No Ident response
+
+:irc.capturetheflag.withgoogle.com NOTICE * :*** Found your hostname
+
+:irc.capturetheflag.withgoogle.com 001 Matir :Welcome to the ctf Internet Relay Chat Network Matir
+
+:irc.capturetheflag.withgoogle.com 002 Matir :Your host is irc.capturetheflag.withgoogle.com[0.0.0.0/31337], running version hybrid-1:8.2.0+dfsg.1-2+deb8u1
+
+:irc.capturetheflag.withgoogle.com 003 Matir :This server was created May 16 2015 at 15:39:11
+
+:irc.capturetheflag.withgoogle.com 004 Matir irc.capturetheflag.withgoogle.com hybrid-1:8.2.0+dfsg.1-2+deb8u1 DFGHRSWabcdefgijklnopqrsuwxy bciklmnoprstveIMORS bkloveIh
+
+:irc.capturetheflag.withgoogle.com 005 Matir CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(ohv)@%+ STATUSMSG=@%+ EXCEPTS=e INVEX=I NICKLEN=15 NETWORK=ctf MAXLIST=beI:100 MAXTARGETS=4 :are supported by this server
+
+:irc.capturetheflag.withgoogle.com 005 Matir CHANTYPES=# CHANLIMIT=#:25 CHANNELLEN=50 TOPICLEN=300 CHANMODES=beI,k,l,cimnprstMORS ELIST=CMNTU SAFELIST WATCH=30 AWAYLEN=180 KNOCK :are supported by this server
+
+:irc.capturetheflag.withgoogle.com 042 Matir 000AAAAAB :your unique ID
+
+:irc.capturetheflag.withgoogle.com 251 Matir :There are 0 users and 1 invisible on 1 servers
+
+:irc.capturetheflag.withgoogle.com 255 Matir :I have 1 clients and 0 servers
+
+:irc.capturetheflag.withgoogle.com 265 Matir :Current local users: 1  Max: 1
+:irc.capturetheflag.withgoogle.com 266 Matir :Current global users: 1  Max: 1
+:irc.capturetheflag.withgoogle.com 250 Matir :Highest connection count: 1 (1 clients) (2 connections received)
+:irc.capturetheflag.withgoogle.com 375 Matir :- irc.capturetheflag.withgoogle.com Message of the Day - 
+:irc.capturetheflag.withgoogle.com 372 Matir :-         _,met$$$$$gg.       ircd-hybrid 8.2
+:irc.capturetheflag.withgoogle.com 372 Matir :-      ,g$$$$$$$$$$$$$$$P.    ---------------
+:irc.capturetheflag.withgoogle.com 372 Matir :-    ,g$$P""       """Y$$.".  
+:irc.capturetheflag.withgoogle.com 372 Matir :-   ,$$P'              `$$$.  If you are seeing this, you have
+:irc.capturetheflag.withgoogle.com 372 Matir :- ',$$P       ,ggs.     `$$b: installed the ircd-hybrid package and
+:irc.capturetheflag.withgoogle.com 372 Matir :- `d$$'     ,$P"'   .    $$$  you are now connected to your new IRC
+:irc.capturetheflag.withgoogle.com 372 Matir :
+-  $$P      d$'     ,    $$P  server -- congratulations.
+:irc.capturetheflag.withgoogle.com 372 Matir :-  $$:      $$.   -    ,d$$'  
+:irc.capturetheflag.withgoogle.com 372 Matir :-  $$;      Y$b._   _,d$P'    Since you have just installed the
+:irc.capturetheflag.withgoogle.com 372 Matir :-  Y$$.    `.`"Y$$$$P"'       package, there are some things you
+:irc.capturetheflag.withgoogle.com 372 Matir :-  `$$b      "-.__            should do before going any further:
+:irc.capturetheflag.withgoogle.com 372 Matir :-   `Y$$b                     
+:irc.capturetheflag.withgoogle.com 372 Matir :-    `Y$$.                    1. Edit /etc/ircd-hybrid/ircd.conf to
+:irc.capturetheflag.withgoogle.com 372 Matir :-      `$$b.                  suit your needs. Beware some options have
+:irc.capturetheflag.withgoogle.com 372 Matir :-        `Y$$b.               been removed or moved into other blocks in
+:irc.capturetheflag.withgoogle.com 372 Matir :-          `"Y$b._            the configuration file since
+:irc.captureth
+eflag.withgoogle.com 372 Matir :-             `""""           ircd-hybrid 7.2.2.
+:irc.capturetheflag.withgoogle.com 372 Matir :- 
+:irc.capturetheflag.withgoogle.com 372 Matir :-                             2. Edit /etc/ircd-hybrid/ircd.motd (this
+:irc.capturetheflag.withgoogle.com 372 Matir :-                             MOTD) to suit your needs. You are free
+:irc.capturetheflag.withgoogle.com 372 Matir :-                             to use this Debian swirl under the
+:irc.capturetheflag.withgoogle.com 372 Matir :-                             Debian Open Use Logo License. :)
+:irc.capturetheflag.withgoogle.com 372 Matir :- 
+:irc.capturetheflag.withgoogle.com 372 Matir :-                             3. Restart the server using invoke-rc.d
+:irc.capturetheflag.withgoogle.com 372 Matir :-                             ircd-hybrid restart.
+:irc.capturetheflag.withgoogle.com 376 Matir :End of /MOTD command.
+:Matir!~poppopret@matir.c.gctf-2015-admins.google.com.internal MODE Matir :+i
+
+MODE Matir +i
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+JOIN #ctf
+
+:Matir!~poppopret@matir.c.gctf-2015-admins.google.com.internal JOIN :#ctf
+
+:irc.capturetheflag.withgoogle.com MODE #ctf +nt
+
+:irc.capturetheflag.withgoogle.com 353 Matir = #ctf :@Matir
+
+:irc.capturetheflag.withgoogle.com 366 Matir #ctf :End of /NAMES list.
+
+MODE #ctf
+
+:irc.capturetheflag.withgoogle.com 324 Matir #ctf +nt 
+
+:irc.capturetheflag.withgoogle.com 329 Matir #ctf 1461774748
+
+WHO #ctf
+
+:irc.capturetheflag.withgoogle.com 352 Matir #ctf ~poppopret matir.c.gctf-2015-admins.google.com.internal irc.capturetheflag.withgoogle.com Matir H@ :0 matir
+
+:irc.capturetheflag.withgoogle.com 315 Matir #ctf :End of /WHO list.
+
+MODE #ctf b
+
+:irc.capturetheflag.withgoogle.com 368 Matir #ctf :End of Channel Ban List
+
+:andrewg!~poppopret@agriffiths.c.gctf-2015-admins.google.com.internal JOIN :#ctf
+
+PRIVMSG #ctf :hey
+
+:andrewg!~poppopret@agriffiths.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :How's it going?
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+PRIVMSG #ctf :it's going
+
+:itsl0wk3y!~poppopret@itsl0wk3y.c.gctf-2015-admins.google.com.internal JOIN :#ctf
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+:itsl0wk3y!~poppopret@itsl0wk3y.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :i can haz ops?
+
+MODE #ctf +o itsl0wk3y
+
+:Matir!~poppopret@matir.c.gctf-2015-admins.google.com.internal MODE #ctf +o itsl0wk3y
+
+MODE #ctf +o andrewg
+
+:Matir!~poppopret@matir.c.gctf-2015-admins.google.com.internal MODE #ctf +o andrewg
+
+PRIVMSG #ctf :You get ops and you get ops and everyone gets ops!
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+:itsl0wk3y!~poppopret@itsl0wk3y.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :Did you guys hear about the leak?
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+PRIVMSG #ctf :yeah, every time I hear about more crap like that I donate to the EFF: https://www.eff.org/
+
+:andrewg!~poppopret@agriffiths.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :I don't think itsl0wk3y meant that leak
+
+:itsl0wk3y!~poppopret@itsl0wk3y.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :no, I was talking about some CTF that accidentally leaked a bunch of challenges
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+PRIVMSG #ctf :oh
+
+PRIVMSG #ctf :really?
+
+:andrewg!~poppopret@agriffiths.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :yeah, that was bad
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+PRIVMSG #ctf :i can't do anything right today
+
+:andrewg!~poppopret@agriffiths.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :oh you can only turn left?
+
+PRIVMSG #ctf :haha
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+PRIVMSG #ctf :Well, hopefully some people are having fun with flags
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+:andrewg!~poppopret@agriffiths.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :so i was at the bar last night, and the waiter screamed "does anyone know CPR?" so I replied "I know the whole alphabet!"
+
+:itsl0wk3y!~poppopret@itsl0wk3y.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :oh god... really?
+
+PRIVMSG #ctf :lol... but not really
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+PRIVMSG #ctf :alright, seriously, I guess given the leaks, they deserve a flag, don't you think?
+
+:itsl0wk3y!~poppopret@itsl0wk3y.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :maybe
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+PRIVMSG #ctf :but it's plaintext, so I guess 5 eyes will get this flag before anyone else
+
+PRIVMSG #ctf :so let's do it as a group
+
+:andrewg!~poppopret@agriffiths.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :CTF{
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+:itsl0wk3y!~poppopret@itsl0wk3y.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :some_
+
+PRIVMSG #ctf :leaks_
+
+:andrewg!~poppopret@agriffiths.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :are_
+
+PRIVMSG #ctf :good_
+
+:itsl0wk3y!~poppopret@itsl0wk3y.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :leaks_
+
+:andrewg!~poppopret@agriffiths.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :}
+
+PING irc.capturetheflag.withgoogle.com
+
+:irc.capturetheflag.withgoogle.com PONG irc.capturetheflag.withgoogle.com :irc.capturetheflag.withgoogle.com
+
+:itsl0wk3y!~poppopret@itsl0wk3y.c.gctf-2015-admins.google.com.internal PRIVMSG #ctf :alright, well, my job is done here!
+
+:itsl0wk3y!~poppopret@itsl0wk3y.c.gctf-2015-admins.google.com.internal QUIT :Quit: leaving
+
